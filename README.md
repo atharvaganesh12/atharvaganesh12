@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atharvaganesh12 But Actual name is Ganesh Rajak.
 - 👀 I’m interested in field of Software Devlopment as well Research Field.
 - 🌱 I’m currently learning # 3 Year in the Field of Computer science .
-- 💞️ I’m looking to collaborate on Many Tech 
+- 💞️ I’m looking to collaborate on Many Tech....
   
 
 <!---
